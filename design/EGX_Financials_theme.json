@@ -1,0 +1,78 @@
+{
+  "name": "EGX Financials",
+  "dataColors": [
+    "#1D4A55",
+    "#3A9A9A",
+    "#D9772B",
+    "#7A5AA6",
+    "#B6452C",
+    "#E9B07F",
+    "#7FBFBF",
+    "#AEBBC0"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#13252C",
+  "tableAccent": "#1D4A55",
+  "good": "#2E7D5B",
+  "neutral": "#AEBBC0",
+  "bad": "#B6452C",
+  "maximum": "#1D4A55",
+  "center": "#7FBFBF",
+  "minimum": "#EEF2F3",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 20,
+      "color": "#13252C"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 11,
+      "color": "#13252C"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 10,
+      "color": "#13252C"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 9,
+      "color": "#52646C"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": false
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": "#EEF2F3"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
