@@ -1,0 +1,16 @@
+# Power BI temp / cache
+*.pbi_tmp
+.pbi/
+**/cache.abf
+*.pbix.bak
+~$*
+# Excel lock files
+~$*.xlsx
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+# Power BI Desktop crash / feedback snapshots
+FrownSnapShot*.zip
+PerformanceTraces.zip
